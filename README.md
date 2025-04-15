@@ -23,5 +23,4 @@
 ## 🛠 **Installation Guide**  
 ```bash
 1. Download the package above
-2. Extract using password: "FreeOptimization"
-3. Run 'TurboTune.exe' as Administrator
+2. Run 'TurboTune.exe' as Administrator

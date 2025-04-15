@@ -1,10 +1,7 @@
-# TurboTune-Pro
-# ✨ **TurboTune**  
+
+# **TurboTune Pro**  
 ### Free, Powerful PC Optimization  
 
-<p align="center">
-  <img src="https://i.imgur.com/JQ6w3K2.png" width="650" alt="TurboTune Interface" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-</p>
 
 <div align="center">
   
